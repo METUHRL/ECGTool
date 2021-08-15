@@ -1,2 +1,2 @@
 # ECGTool
-MATLAB Toolbox for ECG imaging anf signal processing
+MATLAB Toolbox for ECG imaging and signal processing
